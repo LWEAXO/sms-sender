@@ -10,7 +10,7 @@
 ## 🛠️ Kurulum:
 
 ```yaml
-1) Dosyayı indirinve masaüstüne atınız.
+1) Dosyayı indirin ve masaüstüne atınız.
 
 2) [Kurulum.bat] Dosyasını çalıştırın bu proje için gerekli olan [Module](Kütüphane)'leri indiricektir.
 
